@@ -1,5 +1,0 @@
-p/x test
-x/2hx $esp
-i r
-b ece.c:391
-target remote 10.0.2.2:1234
